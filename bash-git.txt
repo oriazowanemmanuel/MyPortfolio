@@ -1,0 +1,20 @@
+Bash 
+--------
+mkdir - To create new folder (directory)
+rmdir - to delete a folder (directory)
+Ls - list files in folder
+Ls -a - List all files in folder (including hidden files)
+cd - change directory 
+Touch - create new file 
+
+Git
+-------
+Git init - initialize a new folder on git ( go to the path and use "git init")
+Git status- check staging area for any recent added file
+Git add <name of file> - used to add a file to staging area
+Git add . - used to add all files to staging. ("." means everything)
+Mental note:
+Local directory --->>>--- Staging Area --->>>--- Local Repository
+
+Git rm --cached <name of file> - To remove file from staging area
+
