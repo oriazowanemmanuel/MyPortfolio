@@ -21,4 +21,10 @@ Git config --global user.name "Emmanuel" - To configure Author's Name
 Git commit --help - To find flags for git commit (information in the staging ares is called "index")
 Git log - To check commit history
 
+Head -> Main/Master shows the most recent and updated commit 
+
+Git checkout <commit ID> - To check out an earlier version of the document (You can find the commit history using "git log")
+
+
+
 
