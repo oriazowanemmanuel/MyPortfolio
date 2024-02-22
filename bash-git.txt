@@ -13,8 +13,12 @@ Git init - initialize a new folder on git ( go to the path and use "git init")
 Git status- check staging area for any recent added file
 Git add <name of file> - used to add a file to staging area
 Git add . - used to add all files to staging. ("." means everything)
-Mental note:
-Local directory --->>>--- Staging Area --->>>--- Local Repository
-
 Git rm --cached <name of file> - To remove file from staging area
+- Git Commit
+Git commit -m "Message" - To commit an index (First commit is usually called "initial commit")
+Git config --global user.email "oriazowanemmanuel@gmail.com" - To configure Author's Email Address
+Git config --global user.name "Emmanuel" - To configure Author's Name
+Git commit --help - To find flags for git commit (information in the staging ares is called "index")
+
+
 
