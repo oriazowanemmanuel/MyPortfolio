@@ -19,6 +19,6 @@ Git commit -m "Message" - To commit an index (First commit is usually called "in
 Git config --global user.email "oriazowanemmanuel@gmail.com" - To configure Author's Email Address
 Git config --global user.name "Emmanuel" - To configure Author's Name
 Git commit --help - To find flags for git commit (information in the staging ares is called "index")
-
+Git log - To check commit history
 
 
