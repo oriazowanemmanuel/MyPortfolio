@@ -6,6 +6,7 @@ Ls - list files in folder
 Ls -a - List all files in folder (including hidden files)
 cd - change directory 
 Touch - create new file 
+Clear - to clear terminal and move cursor to the top of screen
 
 Git
 -------
@@ -27,6 +28,11 @@ Git checkout <commit ID> - To check out an earlier version of the document (You 
 
 Git checkout master/main - brings you back the main commit
 Git reset --hard - reverts to an earlier commit and stays there as Master
+
+Stay on task- Take a break-----need to replenish your spoons
+
+
+
 
 
 
