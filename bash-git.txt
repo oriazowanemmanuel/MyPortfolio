@@ -32,6 +32,11 @@ Git reset --hard - reverts to an earlier commit and stays there as Master
 Stay on task- Take a break-----need to replenish your spoons
 
 
+Go back in time permanently - To go back to an initial commit permanently.
+Git revert - It goes back in time to only one commit. It revert the changes and creates a new revert commit.
+
+git reset --hard <Commit ID> - To hard reset the version to an earlier one
+
 
 
 
